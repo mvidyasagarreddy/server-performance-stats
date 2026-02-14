@@ -1,3 +1,3 @@
 # server-performance-stats
 
-https://github.com/mvidyasagarreddy/server-performance-stats.git
+https://github.com/mvidyasagarreddy/server-performance-stats
